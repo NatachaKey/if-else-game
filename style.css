@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	height: 100vh;
 	min-height: 650px;
-	background-color: #F7A76C;
+	background-color: #E7F6F2;
 	text-align: center;
 	color: #000000;
     font-family: 'Inter', sans-serif;
@@ -89,7 +89,7 @@ button {
 		font-size: 15px;
 	}
 
-	.bookCover {
+	.cover {
 		height: 400px;
 	}
 }
