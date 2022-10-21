@@ -74,7 +74,7 @@ button {
 
 	#header {
 		margin: 15px 5px;
-		font-size: 40px;
+		font-size: 30px;
 	}
 
 	#question {
@@ -96,6 +96,5 @@ button {
 	img{
 		height:300px;
 	}
-	
 		
 }
