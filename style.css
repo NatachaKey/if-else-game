@@ -5,7 +5,7 @@ body {
 	background-color: #E7F6F2;
 	text-align: center;
 	color: #000000;
-    font-family: 'Inter', sans-serif;
+    	font-family: 'Inter', sans-serif;
 }
 
 .container {
@@ -40,7 +40,7 @@ img {
 	border-bottom: 2px dotted #5c5757;
 	text-decoration: none;
 	font-size: 15px;
-    font-family: 'Inter', sans-serif;
+    	font-family: 'Inter', sans-serif;
 	color: #242020;
 }
 
@@ -60,11 +60,15 @@ button {
 	background-color: transparent;
 	text-transform: uppercase;
 	font-size: 18px;
-    font-family: 'Inter', sans-serif;
+    	font-family: 'Inter', sans-serif;
 	color: #000000;
 	cursor: pointer;
 }
 
+button:hover{
+	background-color: #fff;
+	color: #000000;
+}
 .cover {
 	width: auto;
 	height: 540px;
